@@ -1,7 +1,3 @@
-default:
-  agentLabel = "main"
-  break
-}
 pipeline {
   agent {
     label "${agentLabel}"
