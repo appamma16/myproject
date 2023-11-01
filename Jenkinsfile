@@ -1,5 +1,5 @@
 default:
-  agentLabel = "master"
+  agentLabel = "main"
   break
 }
 pipeline {
